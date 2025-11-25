@@ -1,6 +1,8 @@
 # Win11_Stealth_RAT_DiscordC2
 
-Windows 11 Stealth RAT w/ Discord C2 Bot functions 
+Windows 11 Stealth RAT w/ Discord C2 Bot functions
+This code was created by Gemini 3 using a JailBreak to do some vibe coding.
+I kept trying till it worked well.
 
 
 // REPLACE THESE PLACEHOLDERS WITH YOUR ACTUAL VALUES
